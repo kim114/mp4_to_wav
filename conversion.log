@@ -1,0 +1,50 @@
+2025-05-23 23:24:37,141 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:24:37,438 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:24:39,563 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:24:39,838 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:24:57,993 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:24:58,275 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:25:57,034 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:25:57,307 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:13,097 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:26:13,382 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:18,076 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:18,366 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:37,269 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:37,569 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:39,045 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:39,327 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:40,014 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:40,317 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:40,920 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:41,200 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:43,205 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:43,477 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:44,780 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:45,061 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:47,119 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:47,394 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:49,849 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:50,119 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:26:52,030 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.mp3
+2025-05-23 23:26:52,316 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'verbose'
+2025-05-23 23:30:02,999 - video_converter - ERROR - 文件不存在: nonexistent.mp4
+2025-05-23 23:30:03,292 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1_test.wav
+2025-05-23 23:30:03,691 - video_converter - INFO - 转换完成: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1_test.wav
+2025-05-23 23:31:55,498 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:31:55,776 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'channels'
+2025-05-23 23:31:58,363 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:31:58,639 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: got an unexpected keyword argument 'channels'
+2025-05-23 23:33:35,813 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1_fix_test.wav
+2025-05-23 23:33:36,245 - video_converter - INFO - 转换完成: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1_fix_test.wav
+2025-05-23 23:33:43,611 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop/cli_test.wav
+2025-05-23 23:33:43,919 - video_converter - ERROR - 转换失败 C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4: 'function' object has no attribute 'iter_bar'
+2025-05-23 23:35:14,526 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1_fix_test.wav
+2025-05-23 23:35:14,526 - video_converter - WARNING - 输出文件已存在，将被覆盖: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1_fix_test.wav
+2025-05-23 23:35:14,942 - video_converter - INFO - 转换完成: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1_fix_test.wav
+2025-05-23 23:35:21,509 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop/cli_final_test.wav
+2025-05-23 23:35:21,919 - video_converter - INFO - 转换完成: C:/Users/黄俊凯/Desktop/cli_final_test.wav
+2025-05-23 23:37:32,294 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_225246_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:37:32,708 - video_converter - INFO - 转换完成: C:/Users/黄俊凯/Desktop\SVID_20250523_225246_1.wav
+2025-05-23 23:40:57,902 - video_converter - INFO - 开始转换: C:/Users/黄俊凯/Desktop/SVID_20250523_234011_1.mp4 -> C:/Users/黄俊凯/Desktop\SVID_20250523_234011_1.wav
+2025-05-23 23:40:58,286 - video_converter - INFO - 转换完成: C:/Users/黄俊凯/Desktop\SVID_20250523_234011_1.wav
